@@ -1,0 +1,2 @@
+# ifuuseit
+Preferred addons
